@@ -1,3 +1,5 @@
+A sample repo to demo how to implement cut/copy/paste with `react-flow-renderer`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
